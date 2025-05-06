@@ -21,7 +21,7 @@ const Home: React.FC = () => {
       <Statistics />
       <ServicesOverview />
       <WhyChooseUs />
-      <ClientLogos />
+      {/* <ClientLogos /> */}
       <CTA />
     </motion.div>
   );
